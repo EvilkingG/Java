@@ -13,10 +13,10 @@ public class sh {
         System.out.println("Sub : " + S);
         int G3 = input.nextInt();
         S = S * G3;
-        System.out.print("Multiply : " + S);
+        System.out.println("Multiply : " + S);
         int G4 = input.nextInt();
         S = S / G4;
-        System.out.print("Divide : " + S);
+        System.out.println("Divide : " + S);
         int G5 = input.nextInt();
         S = S % G5;
         System.out.print("Mod : " + S);
