@@ -1,0 +1,5 @@
+ git add . (.) far all files 
+git commit -m "Day 01"
+git branch -M  main
+git remote add origin (https://github.com/EvilkingG/Java.git)
+git push -u origin main
