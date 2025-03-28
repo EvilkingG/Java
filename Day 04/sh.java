@@ -1,9 +1,12 @@
+
 import java.util.Scanner;
 
 public class sh {
+
     public static void main(String[] args) {
         int S = 72;
         Scanner input = new Scanner(System.in);
+        System.out.print("Enter 5 Numbers : ");
         // Taking input from user 5 Numbers
         int G1 = input.nextInt();
         S = S + G1;
