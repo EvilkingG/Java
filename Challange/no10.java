@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class noo10 {
+public class no10 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Welcome to Personalized Calculator : ");

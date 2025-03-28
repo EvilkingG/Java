@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class noo9 {
+public class no9 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
